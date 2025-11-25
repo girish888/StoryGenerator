@@ -1,4 +1,4 @@
-package com.example.storyapp;
+package com.example.storyapp.service;
 
 import com.example.storyapp.ai.GeminiClient;
 import org.slf4j.Logger;
